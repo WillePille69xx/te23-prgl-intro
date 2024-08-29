@@ -1,6 +1,6 @@
-namn = input("Skriv ditt namn: ")
-info = "Tecknet vi använder till strängar heter fnuttar"
-print(f"{info} och det ska {namn} komma ihåg!")
-print("Hello", namn)
+name = input("Write your name: ")
+info = "the sign vi used till strings are named Fnuttar"
+print(f"{info} och det ska {name} remember!")
+print("Hello", name)
 
-print(type(namn))
+print(type(name))
